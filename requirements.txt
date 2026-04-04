@@ -1,5 +1,5 @@
 streamlit
+seaborn
+matplotlib
 pandas
 numpy
-matplotlib
-plotly
